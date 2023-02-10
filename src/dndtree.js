@@ -1,6 +1,6 @@
-// function name(){
-//     alert("I am Lucifer");
-//   }
+function name(){
+    alert("I am Lucifer");
+  }
 var react = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 function createTree() {
 
