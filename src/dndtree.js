@@ -1,14 +1,9 @@
-// function name(){
-//     alert("I am Lucifer");
-//   }
-
-console.log("from tree ====>",createTree())
-var react = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 function createTree() {
-
+    
     treeJSON = d3.json('flare.json', function (treeData) {
-
+        
         console.log(treeData)
+        console.log("refreshed tree")
 
         treeData =
         {
