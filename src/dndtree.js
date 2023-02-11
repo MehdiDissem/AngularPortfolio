@@ -84,6 +84,15 @@ function createTree() {
                         {"name":"Master's degree in International Trade","children":[{"name":"ESSECT - 2016"}]},
                         {"name":"Licence degree in Economy","children":[{"name":"ESSECT - 2014"}]}
                     ]
+                },
+                {
+                    "name":"Projects",
+                    "children":[
+                        {"name": "Portfolios","children":[{"name":"Visit My Github"}]},
+                        {"name":"DelivAir","children":[{"name":"Visit My Github"}]},
+                        {"name":"SocialMedia App","children":[{"name":"Visit My Github"}]},
+                        {"name":"OneBlood","children":[{"name":"Visit My Github"}]}
+                    ]
                 }
             ]
         };
